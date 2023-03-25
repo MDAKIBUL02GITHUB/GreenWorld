@@ -1,0 +1,223 @@
+@media only screen and (max-width:1080px){
+    h1{
+        font-size:5rem;
+    }
+    .mix-content .span_1_of_3 {
+        width: 47.56% !important;
+        margin: 1% 0 1% 1.6% !important
+      }
+      .green-about {
+        margin-top: 0rem;
+      }
+      .activites-content i {
+        font-size: 8rem;
+      }
+      .activites-content h2 {
+        font-size: 4rem;
+      }
+      .work-content .span_1_of_4 {
+        width: 47.8% !important;
+        margin: 1% 0 1% 1.6% !important;
+      }
+}
+@media only screen and (max-width:992px){
+    /* =====Responsive header top menu===== */
+    h2{
+        margin-top:0;
+    }
+    .logo {
+        width: 16rem;
+      }
+    .menu {
+      margin-top: 0rem;
+      display: block;
+      }
+    .menu ul li {
+      font-size: 1.5rem;
+    }
+    .dropdown{
+      width: 9.395rem;
+    }
+    .single-tiem {
+        width: 9.395rem;
+    }
+    .dropdown-menu a{
+        font-size:1.4rem;
+        padding: .8rem 1rem;
+    }
+    nav {
+        height: 7rem;
+        padding: 1rem 1rem;
+      }
+    .frist{
+        display:none !important;
+    }
+    .second{
+        width:100% !important;
+        text-align: center;
+    }
+    #about-section .span_3_of_5 {
+        width: 100% !important;
+      }
+    #about-section .span_2_of_5{
+        width:97% !important;
+    }
+    .green-world{
+        padding:0 2rem;
+    }
+    .recent-content p {
+        width: 80%;
+      }
+    .out-activites p {
+        width: 80%;
+      }
+}
+/* min width */
+@media only screen and (min-width:768.99px){
+  .mobile_bar,
+  .cross_bar{
+     display: none !important;
+  }
+  .menu_content{
+    display: block !important;
+  }
+}
+@media only screen and (max-width:768px){
+    /* =====Responsive header top menu===== */
+    nav{
+        padding:1rem 2rem;
+    }
+    .menu{
+      display: none;
+    }
+    .menu-item{
+        display:block;
+    }
+    .menu{
+        width:100%;
+        background:#fff !important;
+        position: relative;
+        padding:2rem;
+    }
+    .menu ul li{
+        float:none !important;
+    }
+    .dropdown{
+        width:100% !important;
+    }
+    .single-tiem {
+        width:100% !important;
+      }
+    .mobile-bar{
+      display:block;
+    }
+    .home-content {
+        margin: 4rem 0;
+      }
+    h2{
+        margin-bottom:2rem;
+    }
+    #activites-section .span_1_of_4 {
+        width: 47.8% !important;
+      }
+    #activites-section .span_1_of_4:nth-child(3) {
+        margin-left:0!important;
+        margin-top:2rem !important;
+      }
+    #activites-section .span_1_of_4:nth-child(4) {
+        margin-left:0!important;
+        margin-top:2rem !important;
+      }
+    .out-activites h2 {
+        line-height: 4.8rem;
+    }
+    .work-content .span_1_of_4 {
+        width: 95.8% !important;
+        margin: 3% 0 1% 1.6% !important;
+      }
+    .out-activites p {
+        margin-bottom: 2rem;
+      }
+    #upcoming-section .span_1_of_2 {
+        width: 99.5% !important;
+      }
+    #upcoming-section .span_1_of_2:nth-child(2) {
+        margin-left:0 !important;
+      }
+    #sponsor-section .span_1_of_4 {
+        width: 48.8% !important;
+      }
+    #sponsor-section .span_1_of_4:nth-child(3) {
+       margin-left:0 !important;
+      }
+    .footer-content h3{
+      line-height: 4.2rem;
+    }
+    .mobile_bar{
+      display: block !important;
+  }
+}
+@media only screen and (max-width:576px){
+  h1 {
+    font-size: 3.6rem;
+    margin-top: 0rem;
+    margin-bottom:0.5rem;
+    color:#70c847;;
+  }
+  h2{
+    line-height: 4.4rem;
+    font-size: 2.9rem;
+  }
+.home-content h2 {
+  line-height: 3.4rem;
+  font-size:2.4rem;
+  margin-bottom:0rem;
+}
+.home-content h3 {
+  font-size: 2.4rem;
+  line-height: 3.5rem;
+  margin-bottom: 3rem;
+}
+.mix-content .col:first-child {
+  margin-left: 0 !important;
+}
+.mix-content .col{
+  padding: 2rem;
+  width:98.56% !important;
+  margin-left:0!important;
+}
+.mix-little-content h3 {
+  font-size: 1.9rem;
+}
+#activites-section .span_1_of_4 {
+  width: 99.8% !important;
+  margin-top:4rem !important;
+}
+.out-activites h2 {
+  margin-bottom: 2rem;
+}
+.activites-content h2 {
+  margin-top: 3rem;
+  margin-bottom:1rem;
+}
+.date {
+  width: 9rem;
+  height: 8rem;
+  font-size: 2.5rem;
+}
+.upcomming-time h3 {
+  font-size: 2.5rem;
+}
+.mobile-block{
+  display: block;
+}
+.fa-location-dot{
+  margin-left:0;
+}
+#sponsor-section .span_1_of_4 {
+  width: 99.8% !important;
+}
+.footer-content h3 {
+  font-size: 2.5rem;
+}
+}
